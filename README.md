@@ -1,16 +1,14 @@
-### Hi there 👋
+## Приветствую всех, надеюсь когда ни будь здесь будет что-то полезное
 
-<!--
-**leandr92/leandr92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Моя статистика
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leandr92&show_icons=true&language=ru)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandr92)
+
+### Мои публикации
+
+[Разбираемся с web-kit в 1С](https://infostart.ru/1c/articles/1164762/)<br>
+[Веб-форма авторизации/регистрации/восстановления пароля для веб-клиента 1С с помощью HTML/CSS/PHP/HTTP-сервисов 1С](https://infostart.ru/public/938641/)<br>
+[Модуль обмена с QIWI](https://infostart.ru/public/1233237/)<br>
+[Оптимизация размера изображений](https://infostart.ru/public/1261249/)<br>
