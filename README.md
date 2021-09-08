@@ -8,6 +8,7 @@
 
 ### Мои публикации
 
+[Разработка гибридного web-приложения на 1С, возможности и ограничения](https://infostart.ru/1c/articles/1510179/)
 [Разбираемся с web-kit в 1С](https://infostart.ru/1c/articles/1164762/)<br>
 [Веб-форма авторизации/регистрации/восстановления пароля для веб-клиента 1С с помощью HTML/CSS/PHP/HTTP-сервисов 1С](https://infostart.ru/public/938641/)<br>
 [Модуль обмена с QIWI](https://infostart.ru/public/1233237/)<br>
